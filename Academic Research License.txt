@@ -1,0 +1,9 @@
+Academic Research License
+
+This repository is provided solely for academic research and educational purposes.
+
+Commercial use, redistribution, or modification of this codebase without prior permission from the authors is prohibited.
+
+The authors retain all rights to the associated manuscript, experimental protocols, figures, and implementation details.
+
+The software is provided "as is" without warranty of any kind.
